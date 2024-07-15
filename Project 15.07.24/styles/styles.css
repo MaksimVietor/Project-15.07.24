@@ -1,0 +1,98 @@
+body {
+    font-family: "Manrope", sans-serif;    
+    width: 100%;
+    background: #f5f5f5;
+}
+
+    
+.container{
+    margin:0  auto;
+    width: 1400px;
+    background: #FFFF;
+}
+h1 {
+
+   width: 956px;
+   padding-left: 125px;
+   padding-top: 127px;
+    font-family: Manrope;
+    color: #000;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 60px;
+    letter-spacing: -1.8px;
+}
+.Photo {
+    background-color: #d9d9d9;
+    height: 500px;
+    width: 1150px;
+    background-image: url(../resources/Rectangle\ 1.png);
+    margin-top: 30px;
+    margin-left: 125px;
+    box-sizing: border-box;
+    padding: 20px;
+}
+.Photo h2 {
+    font-family: Manrope;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -0.6px;
+    width: 430px;
+    color: #FFFF;
+
+    margin-left: 165px;
+    margin-top: 379px;
+
+}
+.l-am h1{
+    color: #121212;
+
+  box-sizing: border-box;
+  margin-top: 150px;
+  margin-right: 125px; ;
+
+    font-family: Manrope;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -0.54px;
+}
+.l-am p{
+    color:#121212;
+    width: 1048px;
+    box-sizing: border-box;
+    margin-left: 125px;
+    margin-top: 30px;
+
+
+font-family: Manrope;
+font-size: 45px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+letter-spacing: -1.35px;
+}
+.cklick {
+    display: inline-flex;
+    width: 255px;
+    height: 50px;
+    padding: 20px 40px;
+    gap: 10px;
+    border: 10px solid #AD1818;
+    background-color: #AD1818;
+    text-align: center;
+    line-height: 6px;
+    text-decoration: none;
+    color: white;
+
+    margin-top: 30px; 
+    margin-left: 125px ;
+}
+.cklick:hover{
+    color: #000;
+
+}
